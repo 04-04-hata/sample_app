@@ -1,4 +1,0 @@
-class ApplicationController < ActionController::Base
-end
-
-Refile.secret_key = '7abb16f6964a291f1517e19e3a05d4f4d0411c57c92f1888e91f747971f777f838a2b93957fd3814ef5f0763b7eb776f74eb728a41de89f798d231abd128f3c7'
